@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 256 256" role="img">
+<title>广告平台拦截</title>
+<desc>Original minimal icon by hclchcl, 2026. Editable SVG source.</desc>
+<rect x="8" y="8" width="240" height="240" rx="56" fill="#5953A1"/>
+<g fill="#FFFFFF"><rect x="56" y="56" width="61" height="61" rx="15"/><rect x="139" y="56" width="61" height="61" rx="15"/><rect x="56" y="139" width="61" height="61" rx="15"/></g><circle cx="169.5" cy="169.5" r="28.5" fill="none" stroke="#FFFFFF" stroke-width="11"/><path d="M156 169.5h27" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+</svg>
