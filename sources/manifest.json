@@ -1,0 +1,37 @@
+{
+  "release": "1.0.0",
+  "date": "2026-10-28",
+  "target": "Loon for Mac 0.5.0 (1009)",
+  "runtime_tested": false,
+  "original_keli_code_copied": false,
+  "repository": "hclchcl/loon-mac-ad-platforms-block",
+  "sources": [
+    {
+      "repository": "blackmatrix7/ios_rule_script",
+      "commit": "0b6897dc17e0c513d25449c935a9694818e32f0c",
+      "path": "rule/Loon/AdvertisingLite/AdvertisingLite_Domain.list",
+      "git_blob_sha": "56c69d91d7ff19e491e2b3519caeaa0b3fa4430b",
+      "license": "GPL-2.0-only",
+      "upstream_updated": "2025-12-08",
+      "url": "https://github.com/blackmatrix7/ios_rule_script/blob/0b6897dc17e0c513d25449c935a9694818e32f0c/rule/Loon/AdvertisingLite/AdvertisingLite_Domain.list"
+    },
+    {
+      "repository": "blackmatrix7/ios_rule_script",
+      "commit": "0b6897dc17e0c513d25449c935a9694818e32f0c",
+      "path": "rule/Loon/AdvertisingLite/AdvertisingLite.list",
+      "git_blob_sha": "63dfd6ba1c2a4b248bd16f98d6b7df37c0d9a909",
+      "license": "GPL-2.0-only",
+      "upstream_updated": "2025-12-08",
+      "url": "https://github.com/blackmatrix7/ios_rule_script/blob/0b6897dc17e0c513d25449c935a9694818e32f0c/rule/Loon/AdvertisingLite/AdvertisingLite.list"
+    }
+  ],
+  "counts": {
+    "rules": 77
+  },
+  "outputs": {
+    "Loon-Mac-Ad-Platforms-Block.plugin": {
+      "sha256": "88c2de3c4ff66d491dff29c1738264a1d7a8c540b1b0c9ed2c9955a39590b278",
+      "bytes": 3652
+    }
+  }
+}
